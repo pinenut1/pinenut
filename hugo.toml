@@ -1,0 +1,4 @@
+baseURL = 'https://pinenut1.github.io/pinenut/'
+languageCode = 'zh-cn'
+title = 'ONE PIECE OF PINENUT'
+theme = "reimu"
