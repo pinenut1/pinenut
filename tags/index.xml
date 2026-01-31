@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on ONE PIECE OF PINENUT</title>
-    <link>https://pinenut1.github.io/pinenut/tags/</link>
+    <link>http://localhost:1313/pinenut/tags/</link>
     <description>Recent content from ONE PIECE OF PINENUT</description>
     <generator>Hugo</generator>
     <language>zh-cn</language>
     
-    <managingEditor>xxx@example.com (D-Sketon)</managingEditor>
-    <webMaster>xxx@example.com (D-Sketon)</webMaster>
+    <managingEditor>xxx@example.com (一颗松子仁)</managingEditor>
+    <webMaster>xxx@example.com (一颗松子仁)</webMaster>
     
     <copyright>All articles on this blog are licensed under the BY-NC-SA license agreement unless otherwise stated. Please indicate the source when reprinting!</copyright>
     
     
-    <atom:link href="https://pinenut1.github.io/pinenut/tags/index.xml" rel="self" type="application/rss&#43;xml" />
+    <atom:link href="http://localhost:1313/pinenut/tags/index.xml" rel="self" type="application/rss&#43;xml" />
     
 
     

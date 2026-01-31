@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://pinenut1.github.io/pinenut/</loc>
+    <loc>http://localhost:1313/pinenut/</loc>
     <lastmod>2025-10-11T05:21:51+08:00</lastmod>
   </url><url>
-    <loc>https://pinenut1.github.io/pinenut/post/</loc>
+    <loc>http://localhost:1313/pinenut/post/</loc>
     <lastmod>2025-10-11T05:21:51+08:00</lastmod>
   </url><url>
-    <loc>https://pinenut1.github.io/pinenut/categories/</loc>
+    <loc>http://localhost:1313/pinenut/categories/</loc>
   </url><url>
-    <loc>https://pinenut1.github.io/pinenut/tags/</loc>
+    <loc>http://localhost:1313/pinenut/tags/</loc>
   </url>
 </urlset>
